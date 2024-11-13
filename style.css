@@ -200,6 +200,7 @@ h1 {
     background-color:#399ade;
     color:#FFF;
 }
+
 .pizzaInfo--size.selected span {
     color:#D6D6D6;
 }
@@ -261,6 +262,7 @@ h1 {
     text-align:center;
     line-height: 40px;
     margin-bottom:30px;
+    cursor:pointer;
 }
 .cart {
     margin-bottom:20px;
